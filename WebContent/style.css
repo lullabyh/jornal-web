@@ -1,0 +1,11 @@
+.linha{
+	padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+//adicionar classe no noticias Secao no p(paragrafo) da lista de noticias da secao(noticiaSecao.jsp linha 128)
+.altura-minima{
+	min-height: 250px;
+}
+
+//adicionei um strong na linha 83 da pagina index.jsp
